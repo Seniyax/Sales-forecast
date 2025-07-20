@@ -8,11 +8,10 @@ An end-to-end machine learning system for predicting store-item sales using XGBo
 ## Features
 - Temporal feature engineering (lags, rolling statistics)
 - XGBoost model training with Optuna hyperparameter tuning
+- Forecasting Horizon - next 7 days,providing a week ahead prediction
 - Local deployment via:
   - FastAPI REST endpoint
   - Streamlit interactive dashboard
-- Automated feature generation for new predictions
-
 ## Project Structure
 ```` bash
 sales-forecast/
