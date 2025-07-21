@@ -3,7 +3,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.7%2B-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)
 
-An end-to-end machine learning system for predicting store-item sales using XGBoost with feature engineering and local deployment options.
+A machine learning system for predicting store-item sales using XGBoost with feature engineering and local deployment options.
 
 ## Features
 - Temporal feature engineering (lags, rolling statistics)
